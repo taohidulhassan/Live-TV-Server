@@ -1,0 +1,114 @@
+
+---
+
+# **Live TV Server v1.3.0 – Unified UI, Dynamic Playback & Visitor Insights**  
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FLive-Tv-Server&label=&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
+
+---
+
+## 🎬 Live Demo Versions
+
+Explore the evolution of the Live-Tv-Server through its key iterations:
+
+| Version        | Description                            | Link |
+|----------------|----------------------------------------|------|
+| `index.html`   | Branding & identity foundation         | [View](https://sohag1192.github.io/Live-Tv-Server/index.html) |
+| `index_v0.html`| Minimalist single-channel prototype    | [View](https://sohag1192.github.io/Live-Tv-Server/index_v0.html) |
+| `index_v1.html`| Channel expansion with metadata        | [View](https://sohag1192.github.io/Live-Tv-Server/index_v1.html) |
+| `index_v2.html`| Interactive grid with JW Player & stats| [View](https://sohag1192.github.io/Live-Tv-Server/index_v2.html) |
+| `index_v3.html`| Finalized layout with branded polish   | [View](https://sohag1192.github.io/Live-Tv-Server/index_v3.html) |
+
+🔗 **Latest Unified Interface:**  
+[Live-Tv-Server Web Interface](https://sohag1192.github.io/Live-Tv-Server)
+
+---
+
+## 🔧 Version Highlights & Evolution Summary
+
+The Live TV Server has evolved through five major iterations, each introducing key improvements:
+
+### 🟢 `index.html` – Branding & Identity
+- Premium branding with clean header  
+- Developer credit and copyright  
+- Foundation for modular layout
+
+### 🟡 `index_v0.html` – Minimalist Prototype
+- Single-channel streaming (Sports Channel 1)  
+- Lightweight demo for initial testing
+
+### 🔵 `index_v1.html` – Channel Expansion & Metadata
+- Multi-channel listing (12/250)  
+- Live sports metadata (Premier League match)  
+- Categorization: Sports, Movies, News, Music, Kids
+
+### 🟣 `index_v2.html` – Interactive Demo & Visual Grid
+- JW Player with keyboard shortcuts  
+- Placeholder thumbnails for previews  
+- Visitor counters and GitHub hit tracking
+
+### 🔴 `index_v3.html` – Finalized Layout & Branding Polish
+- Branded thumbnails and enhanced layout  
+- Fullscreen support and streaming controls  
+- GitHub + country-based visitor analytics
+
+---
+
+## 🚀 What’s New in `v1.3.0`
+- Unified layout combining best elements from all versions  
+- Modular CSS/JS for dynamic channel loading  
+- Optimized JW Player setup for modern devices  
+- Visitor analytics integration (GitHub hits + country stats)  
+- Responsive design for mobile and desktop  
+- Metadata-ready for channel grouping (e.g., Bangla group)
+
+---
+
+## 🛠️ Installation Guide for Live-Tv-Server V.110.0
+
+### 📦 Step-by-Step Setup on Ubuntu
+
+#### 1️⃣ Update Your System
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+#### 2️⃣ Install Required Packages
+```bash
+sudo apt install nginx ffmpeg php php-fpm unzip -y
+```
+
+#### 3️⃣ Download the Release
+```bash
+wget https://github.com/sohag1192/Live-Tv-Server/archive/refs/tags/V.110.0.zip
+unzip V.110.0.zip
+cd Live-Tv-Server-V.110.0
+```
+
+#### 4️⃣ Restart NGINX
+```bash
+sudo systemctl restart nginx
+```
+
+---
+
+## 🙋 Contributing
+
+- Issues and pull requests are welcome.  
+- If you find bugs or want to suggest improvements, please open an issue or PR.  
+
+📬 **Contact via Mail:** [sohag1192@gmail.com](mailto:sohag1192@gmail.com)
+
+📬 **Contact via Telegram:** [Md_Sohag_Rana](https://t.me/Md_Sohag_Rana)
+
+---
+
+## 🌟 Support
+
+If you enjoy this project, please ⭐ it on GitHub — your support motivates future updates!
+
+## ⭐ Star History  
+Track the popularity of this project over time:  
+[![Star History Chart](https://api.star-history.com/svg?repos=sohag1192/Live-Tv-Server&type=Date)](https://www.star-history.com/#sohag1192/Live-Tv-Server&Date)
+
+---
+
